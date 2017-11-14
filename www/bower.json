@@ -1,0 +1,30 @@
+{
+  "name": "tc24-partner",
+  "authors": [
+    "fabio menezes <fabiomenezes@admedia.pt>"
+  ],
+  "description": "travelcentral partner enviroment",
+  "main": "index.html",
+  "keywords": [
+    "tc24",
+    "travelcentral24",
+    "partner",
+    "qrcode",
+    "customers"
+  ],
+  "license": "MIT",
+  "homepage": "https://travelcentral24.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "css",
+    "bower_components",
+    "img",
+    "js",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
